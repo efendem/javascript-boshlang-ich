@@ -1,0 +1,54 @@
+.tasbeh{
+    height: 230px;
+    width: 180px;
+    background-color: orange;
+    border-color: chocolate;
+    position: absolute;
+    top: 10%;
+    left: 39%;
+    border-radius: 20px;
+}
+.ekran{
+    width: 55%;
+    position:absolute;
+    top: 10%;
+    left: 22%;
+    height: 30px;
+    caret-color: white;
+    border-radius: 10%;
+    border: 1px solid pink;
+    text-align: center;
+    font-size: 35px;
+}
+.tugma {
+    position:absolute;
+    top: 40%;
+    width: 65px;
+    left: 32%;
+    height: 65px;
+    border-radius: 50%; 
+    background-color: cadetblue;
+     
+}
+
+.tugmacha{
+    position:absolute;
+    top: 75%;
+    width: 35px;
+    left: 40%;
+    height: 35px;
+    border-radius: 50%; 
+    background-color: gray;
+}
+.tugma:active{
+    left: 33%;
+    top: 41%;
+    width: 60px;
+    height: 60px;
+}
+.tugmacha:active{
+    left: 43%;
+    top: 70%;
+    width: 15%;
+    height: 50px;
+}
